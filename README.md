@@ -9,7 +9,7 @@ Professional landing page showcasing BYD Cyprus products and services.
 - Modern CSS Grid and Flexbox layouts
 
 ## 🚗 Live Demo
-**👀 [View Live BYD Landing Page](https://www.genspark.ai/api/code_sandbox_light/preview/424fad74-3d2d-4858-9fe9-95ddebfb713f/index.html?canvas_history_id=ecd84982-b0e3-40f4-af8e-4369312f4205)**
+**👀 [View Live BYD Landing Page](https://zsentxbf.gensparkspace.com)**
 
 ## 🛠️ Technologies Used
 - HTML5
